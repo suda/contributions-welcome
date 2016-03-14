@@ -3902,8 +3902,8 @@ input[type="text"], input[type="email"], textarea {
   transition: .35s ease-in-out;
 }
 .banner .scroll-down-btn:hover {
-  color: #ffdf8f;
-  border-color: #ffdf8f;
+  color: #eee;
+  border-color: #eee;
 }
 @media only screen and (min-width: 40.063em) {
   .banner {
