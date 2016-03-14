@@ -2939,7 +2939,7 @@ td {
 
 /* Default Link Styles */
 a {
-  color: #93cd7e;
+  color: #7dcfef;
   line-height: inherit;
   text-decoration: none;
 }
@@ -3880,14 +3880,14 @@ input[type="text"], input[type="email"], textarea {
   padding: 2.5rem 0 3.125rem;
   text-align: center;
   color: #fff;
-  background-color: #ff794a;
+  background-color: #7dcfef;
 }
 .banner h1 {
   margin-bottom: 1.25rem;
 }
 .banner .lead {
   margin-bottom: 1.875rem;
-  color: #ffdf8f;
+  color: #fff;
 }
 .banner .scroll-down-btn {
   display: block;
@@ -3942,7 +3942,7 @@ input[type="text"], input[type="email"], textarea {
 .round-icon span {
   display: table-cell;
   vertical-align: middle;
-  color: #ff794a;
+  color: #7dcfef;
   text-align: center;
 }
 
@@ -4041,7 +4041,7 @@ input[type="text"], input[type="email"], textarea {
   height: 5rem;
   margin: 0 auto 0.625rem;
   background-color: #ffdf8f;
-  border: 2px solid #ff794a;
+  border: 2px solid #7dcfef;
   border-radius: 1000px;
 }
 .quote cite {
@@ -4055,7 +4055,7 @@ input[type="text"], input[type="email"], textarea {
 .contact {
   text-align: center;
   color: #fff;
-  background-color: #ff794a;
+  background-color: #7dcfef;
 }
 .contact .contact-icon {
   margin-bottom: 0.9375rem;
