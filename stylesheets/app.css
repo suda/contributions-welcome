@@ -3930,6 +3930,23 @@ input[type="text"], input[type="email"], textarea {
   border-bottom: 2px solid #edeff0;
 }
 
+.scroll-down-btn {
+  display: block;
+  margin: 1.875rem auto 0;
+  padding-top: 0.3125rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  font-size: 1.875rem;
+  color: #384047;
+  border: 2px solid #384047;
+  border-radius: 1000px;
+  transition: .35s ease-in-out;
+}
+.scroll-down-btn:hover {
+  color: #8c989e;
+  border-color: #8c989e;
+}
+
 .round-icon {
   display: table;
   width: 6.25rem;
