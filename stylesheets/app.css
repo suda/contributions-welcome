@@ -3848,7 +3848,6 @@ input[type="text"], input[type="email"], textarea {
   margin: 0;
   width: auto;
   height: 2.5rem;
-  border-radius: 1000px;
 }
 .header .logo span {
   float: left;
