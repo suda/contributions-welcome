@@ -2944,7 +2944,7 @@ a {
   text-decoration: none;
 }
 a:hover, a:focus {
-  color: #77c05d;
+  color: #ff794a;
 }
 a img {
   border: none;
@@ -3806,6 +3806,16 @@ h1, h2, h3, h4, h5, h6,
   color: inherit;
 }
 
+.has-colored-bg a {
+  color: #fff;
+  border-bottom: 1px solid #fff;
+}
+
+.has-colored-bg a:hover {
+  color: #eee;
+  border-color: #eee;
+}
+
 .button {
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.2);
   box-shadow: 0 2px 0 rgba(0, 0, 0, 0.1), inset 0 -3px 0 rgba(0, 0, 0, 0.05);
@@ -3911,9 +3921,6 @@ input[type="text"], input[type="email"], textarea {
   .banner .lead {
     margin-bottom: 3.75rem;
   }
-  .banner .scroll-down-btn {
-    margin-top: 3.75rem;
-  }
 }
 
 .section {
@@ -3921,7 +3928,7 @@ input[type="text"], input[type="email"], textarea {
 }
 @media only screen and (min-width: 40.063em) {
   .section {
-    padding: 5.6875rem 0 6.25rem;
+    padding: 5.6875rem 0 3.25rem;
   }
 }
 
@@ -3941,9 +3948,9 @@ input[type="text"], input[type="email"], textarea {
   border-radius: 1000px;
   transition: .35s ease-in-out;
 }
-.scroll-down-btn:hover {
-  color: #8c989e;
-  border-color: #8c989e;
+.scroll-down-btn:hover, .scroll-down-btn:focus {
+  color: #ff794a;
+  border-color: #ff794a;
 }
 
 .round-icon {
