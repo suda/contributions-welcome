@@ -3933,7 +3933,7 @@ input[type="text"], input[type="email"], textarea {
 }
 @media only screen and (min-width: 40.063em) {
   .section {
-    padding: 5.6875rem 0 3.25rem;
+    padding: 3.6875rem 0 3.25rem;
   }
 }
 
