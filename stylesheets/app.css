@@ -2969,6 +2969,11 @@ p aside {
   line-height: 1.35;
 }
 
+img.svg {
+  width: 100px;
+  fill: #7dcfef;
+}
+
 /* Default header styles */
 h1, h2, h3, h4, h5, h6 {
   color: #384047;
